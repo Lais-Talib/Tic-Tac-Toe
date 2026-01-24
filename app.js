@@ -17,7 +17,6 @@ const winPatterns = [
     [6,7,8],
 ];
 
-
 const resetGame = () =>{
     turnO = true ;
     enableBoxes();
